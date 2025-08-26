@@ -8,7 +8,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="Network Device Manager API",
       default_version='v1',
-      description="API برای مدیریت دستگاه‌های شبکه",
+      description="REST API for Network Device Management",
       terms_of_service="https://www.google.com/policies/terms/",
       contact=openapi.Contact(email="contact@networkmanager.local"),
       license=openapi.License(name="BSD License"),
